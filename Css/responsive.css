@@ -3921,7 +3921,7 @@
   /* project */
 
   div.card-group-2 {
-    margin: 0px 0px 0px -800px;
+    /* margin: 0px 0px 0px -800px; */
     /* margin-right: 600px; */
     /* margin-top: 20px; */
     display: flex;
@@ -3931,18 +3931,18 @@
     justify-content: center;
     gap: 20px;
   }
-  #card-body-21 {
+  /* #card-body-21 {
     /* margin-left:190px; */
-  }
+  /* }
   #card-body-22 {
-    margin-left: 200px;
-  }
+    margin-left: 200px; */
+  /* }
   #card-body-23 {
     /* margin-left: -100px; */
-  }
-  #card-body-24 {
-    margin-left: 200px;
-  }
+  /* } */
+  /* #card-body-24 { */
+    /* margin-left: 200px; */
+  /* }  */
   #heading-projects {
     text-align: center;
     margin: 20px;
@@ -3954,10 +3954,10 @@
     background-color: #201f1f;
     border-radius: 22px;
     padding: 20px;
-    width: 400px;
+    width: 300px;
   }
   .card-body-2 > img {
-    width: 400px;
+    width: 300px;
     object-fit: cover;
     border-radius: 12px;
     height: 100px;
